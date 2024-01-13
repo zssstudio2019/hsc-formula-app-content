@@ -1,0 +1,116 @@
+[
+  {
+    "title": "শব্দের বেগ",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/1.png",
+    "description": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/desc_1.png"
+  },
+  {
+    "title": "দোলনকাল",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/2.png",
+    "description": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/desc_2.png"
+  },
+  {
+    "title": "শতকরা ত্রুটি",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/3.png",
+    "description": ""
+  },
+  {
+    "title": "পরম ত্রুটি",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/4.png",
+    "description": ""
+  },
+  {
+    "title": "আপেক্ষিক ত্রুটি",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/5.png",
+    "description": ""
+  },
+  {
+    "title": "গাণিতিক গড়",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/6.png",
+    "description": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/desc_6.png"
+  },
+  {
+    "title": "স্বতন্ত্র পরিমাপের জন্য ত্রুটি",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/7.png",
+    "description": ""
+  },
+  {
+    "title": "গড় ত্রুটি/বিচ্যুতি",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/8.png",
+    "description": ""
+  },
+  {
+    "title": "গড় পরম ত্রুটি",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/9.png",
+    "description": ""
+  },
+  {
+    "title": "প্রমাণ বিচ্যুতি",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/10.png",
+    "description": ""
+  },
+  {
+    "title": "গোলকের আয়তন",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/11.png",
+    "description": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/desc_11.png"
+  },
+  {
+    "title": "ভার্নিয়ার ধ্রুবক",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/12.png",
+    "description": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/desc_12.png"
+  },
+  {
+    "title": "দৈর্ঘ্য",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/13.png",
+    "description": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/desc_13.png"
+  },
+  {
+    "title": "লঘিষ্ঠ গণন",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/14.png",
+    "description": ""
+  },
+  {
+    "title": "দৈর্ঘ্য",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/15.png",
+    "description": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/desc_15.png"
+  },
+  {
+    "title": "বক্রতলের বক্রতার ব্যাসার্ধ",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/16.png",
+    "description": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/desc_16.png"
+  },
+  {
+    "title": "স্ফেরোমিটারের পাঠ",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/17.png",
+    "description": ""
+  },
+  {
+    "title": "স্ফেরোমিটারের সাহায্যে h নির্ণয়",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/18.png",
+    "description": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/desc_18.png"
+  },
+  {
+    "title": "পরীক্ষাধীন বস্তুর প্রকৃত ওজন",
+    "chapter": 1,
+    "image": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/19.png",
+    "description": "https://raw.githubusercontent.com/zssstudio2019/hsc-formula-app-content/master/P1/1/desc_19.png"
+  }
+]
